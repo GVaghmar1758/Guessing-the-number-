@@ -11,6 +11,7 @@ def guess(x):
             print("Guess again, buddy! Try a lower number.")
         else:
             print("Hey, you are good at guessing! Good guess!")
+guess(100)
 
 def comp_guess(x):
     low = 1 
